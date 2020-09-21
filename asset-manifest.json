@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CryptoSearch/static/css/main.c9b66865.chunk.css",
+    "main.js": "/CryptoSearch/static/js/main.44d1b567.chunk.js",
+    "main.js.map": "/CryptoSearch/static/js/main.44d1b567.chunk.js.map",
+    "runtime-main.js": "/CryptoSearch/static/js/runtime-main.d52e13fe.js",
+    "runtime-main.js.map": "/CryptoSearch/static/js/runtime-main.d52e13fe.js.map",
+    "static/js/2.86bab506.chunk.js": "/CryptoSearch/static/js/2.86bab506.chunk.js",
+    "static/js/2.86bab506.chunk.js.map": "/CryptoSearch/static/js/2.86bab506.chunk.js.map",
+    "index.html": "/CryptoSearch/index.html",
+    "precache-manifest.207052d631a7f6e6e18f5af0fb856706.js": "/CryptoSearch/precache-manifest.207052d631a7f6e6e18f5af0fb856706.js",
+    "service-worker.js": "/CryptoSearch/service-worker.js",
+    "static/css/main.c9b66865.chunk.css.map": "/CryptoSearch/static/css/main.c9b66865.chunk.css.map",
+    "static/js/2.86bab506.chunk.js.LICENSE.txt": "/CryptoSearch/static/js/2.86bab506.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d52e13fe.js",
+    "static/js/2.86bab506.chunk.js",
+    "static/css/main.c9b66865.chunk.css",
+    "static/js/main.44d1b567.chunk.js"
+  ]
+}
