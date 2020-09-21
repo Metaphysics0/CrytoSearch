@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/CryptoSearch/static/css/main.c9b66865.chunk.css",
-    "main.js": "/CryptoSearch/static/js/main.44d1b567.chunk.js",
-    "main.js.map": "/CryptoSearch/static/js/main.44d1b567.chunk.js.map",
-    "runtime-main.js": "/CryptoSearch/static/js/runtime-main.d52e13fe.js",
-    "runtime-main.js.map": "/CryptoSearch/static/js/runtime-main.d52e13fe.js.map",
-    "static/js/2.86bab506.chunk.js": "/CryptoSearch/static/js/2.86bab506.chunk.js",
-    "static/js/2.86bab506.chunk.js.map": "/CryptoSearch/static/js/2.86bab506.chunk.js.map",
-    "index.html": "/CryptoSearch/index.html",
-    "precache-manifest.207052d631a7f6e6e18f5af0fb856706.js": "/CryptoSearch/precache-manifest.207052d631a7f6e6e18f5af0fb856706.js",
-    "service-worker.js": "/CryptoSearch/service-worker.js",
-    "static/css/main.c9b66865.chunk.css.map": "/CryptoSearch/static/css/main.c9b66865.chunk.css.map",
-    "static/js/2.86bab506.chunk.js.LICENSE.txt": "/CryptoSearch/static/js/2.86bab506.chunk.js.LICENSE.txt"
+    "main.css": "/crypto-tracker/static/css/main.c9b66865.chunk.css",
+    "main.js": "/crypto-tracker/static/js/main.44d1b567.chunk.js",
+    "main.js.map": "/crypto-tracker/static/js/main.44d1b567.chunk.js.map",
+    "runtime-main.js": "/crypto-tracker/static/js/runtime-main.50d108b2.js",
+    "runtime-main.js.map": "/crypto-tracker/static/js/runtime-main.50d108b2.js.map",
+    "static/js/2.86bab506.chunk.js": "/crypto-tracker/static/js/2.86bab506.chunk.js",
+    "static/js/2.86bab506.chunk.js.map": "/crypto-tracker/static/js/2.86bab506.chunk.js.map",
+    "index.html": "/crypto-tracker/index.html",
+    "precache-manifest.b8b0493393b7a84273f6ae69f57f5b1d.js": "/crypto-tracker/precache-manifest.b8b0493393b7a84273f6ae69f57f5b1d.js",
+    "service-worker.js": "/crypto-tracker/service-worker.js",
+    "static/css/main.c9b66865.chunk.css.map": "/crypto-tracker/static/css/main.c9b66865.chunk.css.map",
+    "static/js/2.86bab506.chunk.js.LICENSE.txt": "/crypto-tracker/static/js/2.86bab506.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d52e13fe.js",
+    "static/js/runtime-main.50d108b2.js",
     "static/js/2.86bab506.chunk.js",
     "static/css/main.c9b66865.chunk.css",
     "static/js/main.44d1b567.chunk.js"
